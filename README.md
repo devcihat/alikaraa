@@ -2,8 +2,6 @@
 <h3 align="center">=>Frontend Developer<=</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikaraa" alt="alikaraa" /></a> </p>
-
 - 🔭 I’m currently working on [BootsTrap-Project](https://github.com/alikaraa/BootsTrap-Project)
 
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,REACT**
@@ -22,4 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikaraa&show_icons=true&locale=en&layout=compact" alt="alikaraa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikaraa&show_icons=true&locale=en" alt="alikaraa" /></p>
